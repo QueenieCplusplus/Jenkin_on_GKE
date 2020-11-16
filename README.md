@@ -1,5 +1,7 @@
 # Jenkin_on_GKE
 
+You now have access to Jenkins Serviceand a Kubernetes cluster managed by GKE. 
+To take this solution further, you could use these components in your CD pipeline.
 
 # Core Steps:
 
