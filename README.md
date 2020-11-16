@@ -9,9 +9,7 @@ To take this solution further, you could use these components in your CD pipelin
 
 (2) install Helm CLI
 
-(3) install Jenkins
-
-(4) connect to Jenkins Server
+(3) install Jenkins and connect to Jenkins Server
 
 ---------
 
