@@ -134,4 +134,6 @@ from step 1:
        and password for the password filed, then click on "log in" button.
        
         
+# Ref Doc
 
+  https://cloud.google.com/solutions/jenkins-on-kubernetes-engine-tutorial
