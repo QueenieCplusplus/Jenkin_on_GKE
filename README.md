@@ -64,7 +64,7 @@ from step 1:
         
   * 2.3, copy the file to local system.
   
-        cp linux-amd64/helm
+        cp linux-amd64/helm .
         
   * 2.4, add role to RBAC for adding jenkins permissions afterward.
   
